@@ -58,6 +58,10 @@ https://github.com/icy37785/syncnextPlugin
 
 X-UI：https://github.com/FranzKafkaYu/x-ui
 
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+
+
+
 更新VPS系统环境：
 
 apt update -y && apt install -y curl socat wget sudo
