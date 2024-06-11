@@ -78,6 +78,10 @@ wget -N —no-check-certificate “https://raw.githubusercontent.com/chiakge/Lin
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
+X-ui
+
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
 hysteria2小破站脚本：
 
 wget -N —no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
