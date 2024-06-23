@@ -12,7 +12,7 @@ https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 https://github.com/fanmingming/live
 
-my-tv软件：https://github.com/lizongying/my-tv/tree/main
+http://epg.112114.xyz/douyu/9588891
 
 alist：https://alist.nn.ci/zh/guide/drivers/baidu.html
 
