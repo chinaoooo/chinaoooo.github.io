@@ -14,19 +14,11 @@ https://github.com/fanmingming/live
 
 http://epg.112114.xyz/douyu/9588891
 
-alist：https://alist.nn.ci/zh/guide/drivers/baidu.html
-
-alist百度网盘：https://openapi.baidu.com/oauth/2.0/authorize?response_type=code&client_id=iYCeC9g08h5vuP9UqvPHKKSVrKFXGa1v&redirect_uri=https://alist.nn.ci/tool/baidu/callback&scope=basic,netdisk&qrcode=1
-
 不良林订阅转换：https://psub.888005.xyz/
 
 优选IP：https://stock.hostmonit.com/CloudFlareYes
 
 Quantumult X懒人配置：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
-
-小火箭配置规则：https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy_group.conf
-
-https://whatshub.top/module/YouTubeAd.sgmodule
 
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
 
@@ -56,11 +48,11 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
+
+
 X-UI：https://github.com/FranzKafkaYu/x-ui
 
 bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
-
-
 
 更新VPS系统环境：
 
@@ -77,10 +69,6 @@ wget -N —no-check-certificate “https://raw.githubusercontent.com/chiakge/Lin
 科技lion：
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
-
-X-ui
-
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 hysteria2小破站脚本：
 
