@@ -18,6 +18,8 @@ http://epg.112114.xyz/douyu/9588891
 
 优选IP：https://stock.hostmonit.com/CloudFlareYes
 
+优选IP地址：https://monitor.gacjie.cn/
+
 Quantumult X懒人配置：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
