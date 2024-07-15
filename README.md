@@ -58,10 +58,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 apt update -y && apt install -y curl socat wget sudo
 
-测速：
-
-bash <(curl -sL bash.gs/s)
-
 BBR四合一脚本：
 
 wget -N —no-check-certificate “https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh“ && chmod +x tcp.sh && ./tcp.sh
