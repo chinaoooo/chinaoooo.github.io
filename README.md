@@ -22,6 +22,8 @@ Quantumult X懒人配置：https://raw.githubusercontent.com/ddgksf2013/Profile/
 
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
 
+安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+
 Windows-v2rayN：https://github.com/2dust/v2rayN/releases
 
 Mac-Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
