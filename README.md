@@ -1,4 +1,145 @@
-# 梦里啥都有
+https://epg.112114.eu.org/,https://epg.112114.xyz/pp.xml/,http://epg.51zmt.top:8000/e.xml/,http://epg.aptvapp.com/xml/,https://epg.pw/xmltv.html?lang=zh-hant
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+https://github.com/YueChan/Live
+
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+
+https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+https://github.com/fanmingming/live
+
+http://epg.112114.xyz/douyu/9588891
+
+不良林订阅转换：https://psub.888005.xyz/
+
+优选IP：https://stock.hostmonit.com/CloudFlareYes
+
+优选IP地址：https://monitor.gacjie.cn/
+
+Quantumult X懒人配置：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+
+安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
+
+安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+
+Windows-v2rayN：https://github.com/2dust/v2rayN/releases
+
+Mac-Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
+
+磁力柠檬：https://lemonue.top/
+
+M3U8：http://tonkiang.us/
+
+SMS虚拟号：https://sms-activate.org/getNumber
+
+美国地址生成器：https://www.meiguodizhi.com/
+
+LocalSend本地发送：https://github.com/localsend/localsend
+
+NameSilo：https://www.namesilo.com/
+
+UUID生成：https://1024tools.com/uuid
+
+洋葱浏览器：https://www.torproject.org
+
+https://zhao-visualized.netlify.app
+
+Syncnext：https://github.com/Quinndark/syncnextPlugin
+
+https://github.com/icy37785/syncnextPlugin
+
+
+
+更新VPS系统环境：
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+X-UI：https://github.com/FranzKafkaYu/x-ui
+
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+
+
+
+科技lion：
+
+curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
+
+
+hysteria2小破站脚本：
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
+
+
+
+ArgoX：
+
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
+
+
+
+Frp内网穿透：
+
+wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+chmod 700 ./install-frps.sh
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
+
+安装 Docker：
+
+curl -fsSL https://get.docker.com | sh
+
+一键安装 Nginx Proxy Manager：
+
+docker run -d \
+  --name=npm \
+  -p 80:80 \
+  -p 81:81 \
+  -p 443:443 \
+  -v /home/npm/data:/data \
+  -v /home/npm/letsencrypt:/etc/letsencrypt \
+  --restart=always \
+  jc21/nginx-proxy-manager:latest
+ 
+
+安装成功后进入NGINX后台面板，服务器IP加81端口访问网页
+
+用户：admin@example.com，密码：changeme
+
+
+
+
+哪吒面板：
+
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+sudo ./nezha.sh 
+
+OAuth应用程序→新建vps→Homepage URL：http://ip.XXX.com:8008→http://ip.XXX.com:8008/oauth2/callback
+
+哪吒：ClentID：XXX→Client：XXX→rootoooo→未接入CDN的面板服务器域名/IP→ip.ooookk.com
+
+
+
+Alist一键安装：
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+
+更新
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
+
+卸载
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
+
+
 
 常用材料
 
@@ -165,3 +306,5 @@ XX化，XX型，XX性，XX感，XX型，XX力(性：必要性、重要性、长�
 词组：
 
 统一思想，提高认识，认清形势，明确任务，加强领导，完善机制，交流经验，研究问题，团结协作，密切配合，真抓实干，开拓进取，突出重点，落实责任，各司其职，各负其责，集中精力，聚精会神，一心一意，心无旁骛，兢兢业业，精益求精，一抓到底，爱岗敬业，求真务实，胸怀全局，拓宽视野。
+
+
